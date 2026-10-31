@@ -1,0 +1,6 @@
+{
+  "name": "SpecCraft - PRD & AI Prompt Architect",
+  "description": "Platform perancang Product Requirement Document (PRD) profesional dan generator AI prompt tajam terstruktur untuk membangun aplikasi akurat dengan AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
